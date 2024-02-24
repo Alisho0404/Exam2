@@ -1,0 +1,14 @@
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\bin\Debug\net8.0\Task7.exe
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\bin\Debug\net8.0\Task7.deps.json
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\bin\Debug\net8.0\Task7.runtimeconfig.json
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\bin\Debug\net8.0\Task7.dll
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\bin\Debug\net8.0\Task7.pdb
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\obj\Debug\net8.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\obj\Debug\net8.0\Task7.AssemblyInfoInputs.cache
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\obj\Debug\net8.0\Task7.AssemblyInfo.cs
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\obj\Debug\net8.0\Task7.csproj.CoreCompileInputs.cache
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\obj\Debug\net8.0\Task7.dll
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\obj\Debug\net8.0\refint\Task7.dll
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\obj\Debug\net8.0\Task7.pdb
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\obj\Debug\net8.0\Task7.genruntimeconfig.cache
+C:\Users\Alisho\Desktop\C# course\Week2\Exam2\Task7\obj\Debug\net8.0\ref\Task7.dll
